@@ -74,16 +74,16 @@ This project presents a Zomato Sales Insights Dashboard built using Microsoft Ex
 
 ## How to Use the Dashboard
 
-Download the Excel file from this repository.
-Open the file in Microsoft Excel (2016 or later recommended).
-Use slicers and filters to explore different insights interactively.
-Analyze trends in Zomato’s restaurant data and make data-driven decisions.
+- Download the Excel file from this repository.
+- Open the file in Microsoft Excel (2016 or later recommended).
+- Use slicers and filters to explore different insights interactively.
+- Analyze trends in Zomato’s restaurant data and make data-driven decisions.
 
 ## Why This Project Stands Out
 
-✅ Demonstrates expertise in Advanced Excel & Data Visualization
-✅ Showcases knowledge of business intelligence and analytics
-✅ Built with a focus on interactivity, design, and usability
-✅ Ideal for resume portfolios, business analysis, and Excel showcases
+- Demonstrates expertise in Advanced Excel & Data Visualization
+- Showcases knowledge of business intelligence and analytics
+- Built with a focus on interactivity, design, and usability
+- Ideal for resume portfolios, business analysis, and Excel showcases
 
 
