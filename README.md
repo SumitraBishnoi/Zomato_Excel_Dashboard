@@ -50,7 +50,7 @@ This project presents a Zomato Sales Insights Dashboard built using Microsoft Ex
 
 - **Country-Wise Analysis**: Highest number of restaurants in India (8,652).
 
-- **Best Average Rating**: in Philippines (4.47).
+- **Best Average Rating**: Philippines (4.47).
 
 ## Tools & Techniques Used
 
